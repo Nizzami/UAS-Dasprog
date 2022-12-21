@@ -27,7 +27,7 @@ arr[1][0] = 22;
 arr[1][1] = 98;
 
 ## Source Code
-
+```
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -109,5 +109,5 @@ int main() {
 
     getch();
 }
-
+```
 ## Output
